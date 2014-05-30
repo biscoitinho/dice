@@ -5,6 +5,8 @@ simple dice roll emulator written in ruby 2.1
 
 To run the program You need to install on your system ruby in version at least 2.1
 
+And then type in your terminal:
+
 ```
   $ruby dice.rb d(number of sides)
 ```
